@@ -1,0 +1,20 @@
+gondolt_szam:= 4
+<<<<<<< HEAD
+BE: TIPP
+TIPP egészé konvertálása
+HA TIPP == gondolt_szam
+	akkor
+		KI: dícséret
+	különben
+		KI: vígasztalás
+KI: elköszönés
+=======
+BE: tipp
+tipp egésszé alakítása
+ha tipp == gondolt_szam
+    akkor
+        KI: dícséret
+    különben
+        KI: vígasztalás
+KI: búcsú
+>>>>>>> 5f8a6604729b7ba5014c0ea523dd439a548fed0d
