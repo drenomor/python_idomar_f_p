@@ -13,4 +13,4 @@ https://www.youtube.com/c/Pythonidom%C3%A1r/videos?view=0&sort=da&flow=grid
 4. Mikor születtem? - típusok és típuskonverzió
 5. Gondoltam egy számra - "if" feltételes utasítások
 6. Megyünk túrázni? - Összetett feltételek
-
+7. Már megint gondoltam egy számra
