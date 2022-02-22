@@ -8,7 +8,7 @@ while kor < 0:
 
 if kor < 6:
     print('\nNézd meg \'A piroska és a farkast\'')
-elif kor >= 6 and kor <= 16:
+elif 6 <= kor <= 16:
     print('\nNézd meg \'A Zootropolice-t\'')
 elif kor > 16:
     print('\nNézz amit szeretnél')
