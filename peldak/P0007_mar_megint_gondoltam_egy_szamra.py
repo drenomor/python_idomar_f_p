@@ -2,7 +2,7 @@
 gondolt_szam = 4
 kitalalta = False
 
-while not kitalalta:
+while not kitalalta: # Amíg 'kitalálta' egyenlő hamis
     tipp = int(input('Melyik számra gondoltam 1 és 5 között? : '))
     if tipp == gondolt_szam:
         kitalalta = True
