@@ -1,4 +1,4 @@
-#!/us/bin/env python3
+#!/usr/bin/env python3
 gondolt_szam = 4
 kitalalta = False
 lehetoseg = 3
