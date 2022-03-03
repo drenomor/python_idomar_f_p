@@ -10,9 +10,7 @@
 
 marha = sonka = pulyka = sajt = False
 
-valasz = input('Van benne pulyka? (i/n): ')
-if valasz == 'i':
-    pulyka = True
+pulyka = True if input('Van benne pulyka? (i/n): ') == 'i' else False
 
 valasz = input('Van benne marha? (i/n): ')
 if valasz == 'i':
