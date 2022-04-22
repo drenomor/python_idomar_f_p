@@ -16,3 +16,4 @@ https://www.youtube.com/c/Pythonidom%C3%A1r/videos?view=0&sort=da&flow=grid
 7. Már megint gondoltam egy számra - while ciklus
 8. Agyamra megy már ez a szám - összetett feltételek 
 9. A jó öreg Diophantosz - egyismeretlenes egyenletek megoldása while-ciklussal
+10. Chuck Norris elszámolt a végtelenig. Kétszer - a végtelen ciklus elkerülése
