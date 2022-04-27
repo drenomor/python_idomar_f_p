@@ -3,7 +3,7 @@
 oszlop = 0
 while oszlop < 25:
     sor = 0
-    while sor < 25: # egy sor kiíratása (egy sorban 25 db O van)
+    while sor < oszlop + 1: # egy sor kiíratása (egy sorban 25 db O van)
         print('O',end='')
         sor += 1
     print('')
